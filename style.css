@@ -1,0 +1,29 @@
+/* this is a CSS comment! cool. */
+body{
+    background-color: rgb(24, 168, 168);
+    margin: 0px;
+}
+
+h1{
+    text-align: center;
+    font-size: 3em;
+    /*em is font size in CC*/
+    background-color: azure;
+    margin: 0px;
+    padding: 30px;
+}
+
+#centercontent{
+    background-color: rgb(211, 157, 180);
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+
+#sidebar{
+    background-color: rgb(224, 194, 56);
+}
